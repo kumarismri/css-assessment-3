@@ -1,0 +1,148 @@
+.box{
+    border: 6px solid red;
+    width: 300px;
+    height: 100px;
+    border-radius: 20px;
+    margin-left: 40%;
+    color: blueviolet;
+    font-style: italic;
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+    padding: 20px 40px 40px 20px;
+    background-color: floralwhite;
+    box-shadow: 10px 10px purple;
+}
+
+body{
+    background-color: dimgray;
+    position: relative;
+}
+
+.second{
+    border: 10px solid hotpink;
+    width: 100%;
+    height: 1000px;
+    position: relative;
+}
+
+.s{
+    border: 6px solid red;
+    width: 300px;
+    height: 250px;
+    border-radius: 30px;
+    color: rgb(31, 14, 141);
+    font-style: italic;
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+    padding: 40px 20px 40px 20px;
+    background-color: floralwhite;
+    box-shadow: 10px 10px purple;
+}
+
+.box1{
+    position: absolute;
+    margin-left: 2%;
+    left: 0px;
+    top: 20px;
+}
+
+.box2{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+.box3{
+    position: absolute;
+    margin-left: 2%;
+    left:0px;
+    bottom: 20px;
+}
+
+.box4{
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.buton{
+    border-radius: 80px;
+    background-color: red;
+}
+
+::placeholder{
+    text-align: center;
+}
+
+
+.inner{
+    border: 15px solid darkblue;
+    background-color: maroon;
+    text-align: center; 
+    width: 750px;
+    height: 700px;
+    margin-left: 27%;
+    position: relative;
+}
+
+.upr{
+    border: 2px solid yellow;
+    background-color: yellow;
+    padding: 15px 10px 20px 10px;
+    width: 345px;
+    height: 250px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.vegetables{
+    position: absolute;
+    right: 0px;
+    top: 84px;
+}
+
+.fruits{
+    margin-top: 10px;
+}
+
+
+.other{
+    border: 2px solid yellow;
+    background-color: yellow;
+    padding: 15px 10px 20px 10px;
+    height: 250px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    position: absolute;
+    bottom: 15px;
+    line-height: 35px;
+}
+
+
+.sticky{
+    border: 6px solid red;
+    background-color: greenyellow;
+    width: 400px;
+    height: 100px;
+    position: sticky;
+    bottom: 60px;
+    margin-left: 40%;
+    color: maroon;
+    border-radius: 20px;
+}
+
+.p{
+    padding: 20px;
+    position: relative;
+    font-size: larger;
+}
+.q{
+    position: absolute; 
+    right: 20px;
+    top: 18px;
+    font-size: small;
+}
